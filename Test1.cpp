@@ -18,3 +18,5 @@ void loop()
 //I added a comment here.
 
 //I added a new comment here. THis is  my second commit.
+
+//3rd commit: checking -a functionality
